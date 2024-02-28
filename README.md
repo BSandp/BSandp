@@ -1,7 +1,9 @@
 ### Hola 👋, Mi nombre es brandon Penagos
 #### Bienvenidos a mi GitHub
-[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif)' alt='github' height='40'>](https://github.com/BSandP) 
+
 Habilidades: NODE JS / REACT / JS / HTML / CSS
+[<img src='https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif' alt='github' height='40'>](https://github.com/BSandP)
+
 
 - 🌱 Estoy aprendiendo NodeJs, AngularJs 
 - 📫 Cómo contactarme: Brandonpenagos24@gmail.com 
