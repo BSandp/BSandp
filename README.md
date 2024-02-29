@@ -7,7 +7,7 @@
 Habilidades: NODE JS / REACT / JS / HTML / CSS
 
 
-- 🌱 Estoy aprendiendo NodeJs, AngularJs 
+
 - 📫 Cómo contactarme: Brandonpenagos24@gmail.com 
 
 
